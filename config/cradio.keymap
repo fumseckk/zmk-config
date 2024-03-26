@@ -70,8 +70,8 @@
         left_layer {
             bindings = <
         //╭──────────┬──────────┬──────────┬──────────┬──────────╮   ╭──────────┬──────────┬──────────  ┬──────────┬──────────╮
-        //│          │  (       │  {       │  (       │  é       │   │  è       │  )       │  }         │  ]       │  ~       │
-           &trans   &kp FR_LBRC &kp FR_LCBR &kp FR_LPRN &kp FR_EACU  &kp FR_EGRV &kp FR_RCBR &kp FR_RBRC &kp FR_LBRC &kp FR_TILDE
+        //│          │  [       │  {       │  (       │  é       │   │  è       │  )       │  }         │  ]       │  ~       │
+           &trans   &kp FR_LBRC &kp FR_LCBR &kp FR_LPRN &kp FR_EACU  &kp FR_EGRV &kp FR_RPRN &kp FR_RCBR &kp FR_RBRC &kp FR_TILD
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────  ┼──────────┼──────────┤
         //│  `       │  @       │  -       │  +       │  *       │   │  =       │  _       │  ç         │  à       │  ù       │
             &FR_GRV   &kp FR_AT &kp FR_MINS &kp FR_PLUS &kp FR_ASTR  &kp FR_EQL &kp FR_UNDS &kp FR_AGRV &kp FR_AGRV &kp FR_UGRV
