@@ -71,13 +71,13 @@
             bindings = <
         //╭──────────┬──────────┬──────────┬──────────┬──────────╮   ╭──────────┬──────────┬──────────  ┬──────────┬──────────╮
         //│          │  (       │  {       │  (       │  é       │   │  è       │  )       │  }         │  ]       │  ~       │
-           &trans    &kp FR_LBRC &kp LBRC   &kp LPAR   &kp FR_EACU   &kp FR_EGRV  &kp RPAR   &kp RBRC   &kp FR_LBRC   &kp FR_TILDE
+           &trans   &kp FR_LBRC &kp FR_LCBR &kp FR_LPRN &kp FR_EACU  &kp FR_EGRV &kp FR_RCBR &kp FR_RBRC &kp FR_LBRC &kp FR_TILDE
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────  ┼──────────┼──────────┤
         //│  `       │  @       │  -       │  +       │  *       │   │  =       │  _       │  ç         │  à       │  ù       │
-            &FR_GRV    &kp AT   &kp FR_MINS &kp FR_PLUS &kp FR_ASTR  &kp FR_EQL &kp FR_UNDS &kp FR_AGRV &kp FR_AGRV &kp FR_UGRV
+            &FR_GRV   &kp FR_AT &kp FR_MINS &kp FR_PLUS &kp FR_ASTR  &kp FR_EQL &kp FR_UNDS &kp FR_AGRV &kp FR_AGRV &kp FR_UGRV
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────  ┼──────────┼──────────┤
         //│  $       │  €       │  &       │  ^       │  #       │   │          │  |       │            │  \       │          │
-          &kp FR_DLR &kp FR_EURO &kp FR_AMPR &kp FR_CIRC &kp HASH     &trans    &kp FR_PIPE  &trans      &kp BSLH     &trans
+          &kp FR_DLR &kp FR_EURO &kp FR_AMPR &kp FR_CIRC &kp FR_HASH     &trans    &kp FR_PIPE  &trans     &kp FR_BSLS  &trans
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────  ┴──────────┴──────────╯
                                              &trans     &trans         &trans     &trans
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
