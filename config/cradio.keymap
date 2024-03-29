@@ -77,7 +77,7 @@
            &kp FR_GRV  &kp FR_AT &kp FR_MINS &kp FR_PLUS &kp FR_ASTR  &kp FR_EQL &kp FR_UNDS &kp FR_CCED &kp FR_AGRV &kp FR_UGRV
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────  ┼──────────┼──────────┤
         //│  $       │  €       │  &       │  ^       │  #       │   │          │  |       │            │  \       │          │
-          &kp FR_DLR &kp FR_EURO &kp FR_AMPR &kp FR_CIRC &trans       &trans    &kp FR_PIPE  &trans     &kp FR_BSLS  &trans
+          &kp FR_DLR &kp FR_EURO &kp FR_AMPR &trans     &trans        &trans    &kp FR_PIPE  &trans     &kp FR_BSLS  &trans
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────  ┴──────────┴──────────╯
                                              &trans     &trans         &trans     &trans
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
