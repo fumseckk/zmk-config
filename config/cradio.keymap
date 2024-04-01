@@ -78,7 +78,7 @@
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────  ┼──────────┼──────────┤
         //│  $       │  €       │  &       │  ^       │  #       │   │          │  |       │            │  \       │          │
         //  &kp FR_DLR &kp FR_EURO &kp FR_AMPR &kp FR_Q  &kp FR_Q        &kp FR_Q  &kp FR_PIPE  &trans     &kp FR_BSLS  &trans
-            &trans     &trans     &trans     &trans     &trans         &kp AMPS   &kp UNDER  &kp PLUS     &kp PIPE   &trans
+            &trans     &trans     &trans     &trans     &trans         &trans    &kp FR_PIPE  &trans     &kp FR_BSLS   &trans
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────  ┴──────────┴──────────╯
                                              &trans     &trans         &trans     &trans
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
