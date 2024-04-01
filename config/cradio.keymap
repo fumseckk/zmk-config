@@ -78,7 +78,7 @@
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────  ┼──────────┼──────────┤
         //│  $       │  €       │  &       │  ^       │  #       │   │          │  |       │            │  \       │          │
         //  &kp FR_DLR &kp FR_EURO &kp FR_AMPR &kp FR_Q  &kp FR_Q        &kp FR_Q  &kp FR_PIPE  &trans     &kp FR_BSLS  &trans
-           &trans      &trans     &FR_AMPR  &kp FR_CIRC  &FR_HASH      &trans    &kp FR_PIPE  &trans     &kp FR_BSLS   &trans
+           &kp FR_DLR &kp FR_EURO &FR_AMPR  &kp FR_CIRC  &FR_HASH      &trans    &kp FR_PIPE  &trans     &kp FR_BSLS   &trans
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────  ┴──────────┴──────────╯
                                              &trans     &trans         &trans     &trans
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
