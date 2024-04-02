@@ -42,7 +42,7 @@
         //│  A       │  R       │  S       │  T       │  G       │   │  M       │  N       │  E       │  I       │ O        │
             HRML(FR_A,  FR_R,      FR_S,      FR_T)      &kp FR_G       &kp FR_M   HRMR(FR_N,  FR_E,     FR_I,     FR_O)
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
-        //│  Z       │  X       │  C       │  D       │  V       │   │  K       │  , ?     │ ; .      │ : /      │ ! §      │
+        //│  Z       │  X       │  C       │  D       │  V       │   │  H       │  , ?     │ ; .      │ : /      │ ! §      │
             &kp FR_Z   &kp FR_X  &kp FR_C   &kp FR_D   &kp FR_V        &kp FR_H  &kp FR_COMM &kp FR_SCLN &kp FR_COLN &kp FR_EXLM
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                             &lt 2 TAB   &kp ENTER     &kp SPACE  &lt 1 BSPC
